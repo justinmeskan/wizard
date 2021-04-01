@@ -1,0 +1,17 @@
+.td_key {
+    text-align: left;
+}
+
+.td {
+    text-align: left;
+}
+
+.table {
+    margin: 0 25% 0 25%;
+    position: relative;
+    width: 50%;
+}
+
+.tr {
+    border: 0px solid white;
+}

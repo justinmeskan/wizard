@@ -1,0 +1,19 @@
+.Controls {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.Controls_submit {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+button {
+    margin: 0 16px 0 16px;
+    width: 172px;
+    height: 40px;
+}
+
+button:hover {
+    background-color: blue;
+}

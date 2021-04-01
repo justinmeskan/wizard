@@ -1,0 +1,10 @@
+.TransactionWizard {
+  text-align: center;
+  margin: 32px 20% 32px 20%;
+  border: 2px solid black;
+  height: 80vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 60%;
+}
+
